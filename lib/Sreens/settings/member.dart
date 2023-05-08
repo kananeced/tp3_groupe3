@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:hi_smart_home/Sreens/settings/delete_member.dart';
 import 'package:hi_smart_home/Sreens/settings/new_member.dart';
 import 'package:hi_smart_home/Sreens/settings/settings.dart';
-import 'package:hi_smart_home/Sreens/widget/devices.dart';
+import 'package:hi_smart_home/Sreens/widget/Devices.dart';
 
 class Member extends StatefulWidget {
   final String routeName = "/Member";

@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:google_nav_bar/google_nav_bar.dart';
-import 'package:hi_smart_home/Sreens/widget/devices.dart';
+import 'package:hi_smart_home/Sreens/widget/Devices.dart';
+
 import 'package:hi_smart_home/Sreens/widget/utility.dart';
 
 import '../settings/settings.dart';
